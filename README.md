@@ -3,8 +3,8 @@
 This plugin aims to provide a improved navigation for the quickfix list.
 
 ## Usage
-When the quickfix list is open Ctrl+n/Ctrl+p will cycle through the quickfix list.
-Using the keybind <leader>c the quickfix list can then be closed. 
+When the quickfix list is open `Ctrl+n`/`Ctrl+p` will cycle through the quickfix list.
+Using the keybind `<leader>c` the quickfix list can then be closed. 
 
 ## Installation
 
